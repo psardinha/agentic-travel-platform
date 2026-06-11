@@ -1,0 +1,1 @@
+DEF_DB_COLLECTION_NAME = "uk_with_metadata_collection"

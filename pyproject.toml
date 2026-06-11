@@ -1,0 +1,6 @@
+[project]
+name = "travelAgent"
+version = "0.0.1"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
